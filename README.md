@@ -128,4 +128,31 @@ python wayback_checker.py
 
 **P.S.** Ваш сайт — это цифровая история. Каждый снимок в архиве — как страница в дневнике развития интернета. 📚
 
+### 🎯 Поддержать разработку
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://yoomoney.ru/to/410011XXXXXXXXXX" target="_blank">
+        <img src="https://img.shields.io/badge/ЮMoney-Поддержать-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDIyQzE3LjUyMjggMjIgMjIgMTcuNTIyOCAyMiAxMkMyMiA2LjQ3NzE1IDE3LjUyMjggMiAxMiAyQzYuNDc3MTUgMiAyIDYuNDc3MTUgMiAxMkMyIDE3LjUyMjggNi40NzcxNSAyMiAxMiAyMloiIGZpbGw9IiNmNTcwMDAiLz4KPHBhdGggZD0iTTEyIDZWN0gxNVYxN0gxMlYxOEgxNlY2SDEyWk0xMSA2SDRWN0g3VjE3SDRWMTlIMTFWMTdIOFY3SDExVjZaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" alt="ЮMoney">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.buymeacoffee.com/yourname" target="_blank">
+        <img src="https://img.shields.io/badge/Coffee-Поддержать-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+**Ваша поддержка помогает:**
+- ✅ Добавлять новые функции
+- ✅ Исправлять баги
+- ✅ Поддерживать проект бесплатным
+- ✅ Создавать документацию
+
+💖 **Спасибо каждому, кто поддерживает проект!**
+
 *Обновлено: {2026}*

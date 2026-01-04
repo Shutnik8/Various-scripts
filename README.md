@@ -30,7 +30,7 @@ pip install requests
 
 ### Шаг 4: Запустите скрипт
 
-1. Откройте файл `wayback_checker.py` в любом текстовом редакторе (можно в Блокноте)
+1. Откройте файл [wayback_checker.py](https://github.com/Shutnik8/Various-scripts/blob/main/wayback_checker.py) в любом текстовом редакторе (можно в Блокноте)
 2. Найдите строку:
 ```python
 url = "ВАШ_САЙТ"  # ← вставьте свой URL здесь
